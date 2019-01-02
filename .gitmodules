@@ -1,3 +1,6 @@
 [submodule "ConversorMoedas"]
 	path = ConversorMoedas
 	url = https://github.com/DanDas3/ConversorMoedas.git
+[submodule "FestaFimDeAno"]
+	path = FestaFimDeAno
+	url = https://github.com/DanDas3/FestaFimDeAno.git
